@@ -1,1 +1,8 @@
-
+<teams>
+    <team1>
+        <teamdata>[1,example_username1],[2,example_guild1,example_dataguild1]</teamdata>
+    </team1>
+    <team2>
+        <teamdata>[1,example_guild2]</teamdata>
+    </team2>
+</teams>
